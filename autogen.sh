@@ -3,4 +3,4 @@
 
 mkdir -p m4
 autoreconf -fi
-./configure1
+./configure2
